@@ -1,3 +1,3 @@
 # estudos-frontend 👩‍🎓
 
-### Projetos realizados em cursos
+### Projetos realizados no curso de Frontend da Udemy.
